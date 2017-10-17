@@ -1,0 +1,3 @@
+Hi, my name is yusuf adeyemo. I like to
+automate boring task with python.
+I'm super exited to have you.
