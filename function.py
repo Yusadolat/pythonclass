@@ -20,5 +20,7 @@ def add_student(student_name, student_id):
 
 student_list = get_student_titlecase()
 
+print("Done")
+
 student_name  = input("Enter your name :")
 student_id  = input("Enter your id :")
